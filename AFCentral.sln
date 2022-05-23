@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFCentral.Console", "AFCentral.Console\AFCentral.Console.csproj", "{7186FEFF-3357-4C98-88E2-742B272B8728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{071A9556-DC47-4C99-A731-D5D94173CB49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7186FEFF-3357-4C98-88E2-742B272B8728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7186FEFF-3357-4C98-88E2-742B272B8728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7186FEFF-3357-4C98-88E2-742B272B8728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7186FEFF-3357-4C98-88E2-742B272B8728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{071A9556-DC47-4C99-A731-D5D94173CB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071A9556-DC47-4C99-A731-D5D94173CB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071A9556-DC47-4C99-A731-D5D94173CB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071A9556-DC47-4C99-A731-D5D94173CB49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16799B3E-2055-4C57-A524-3C652BCB0129}
+	EndGlobalSection
+EndGlobal
